@@ -1,0 +1,5 @@
+fastapi>=0.65.2
+uvicorn>=0.13.4
+PyMuPDF>=1.18.5
+spacy>=3.0.6
+python-multipart>=0.0.9
